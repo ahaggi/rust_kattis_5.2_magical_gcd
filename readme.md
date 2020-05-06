@@ -1,3 +1,5 @@
+# Magical GCD
+
 The _Magical GCD_ of a nonempty sequence of positive integers is defined as the product of its length and the greatest common divisor of all its elements.
 
 Given a sequence (a<sub>1</sub>, ... , a<sub>n</sub>), find the largest possible Magical GCD of its connected subsequences.
