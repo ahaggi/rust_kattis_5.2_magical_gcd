@@ -8,6 +8,7 @@ The first line of input contains the number of test cases _**T**_ The descriptio
 
 The description of each test case starts with a line containing a single integer _**n, 1 ≤ n ≤ 100000**_. The next line contains the sequence _**a<sub>1</sub>,a<sub>2</sub>,…,a<sub>n</sub>, 1≤a<sub>i</sub>≤10<sup>12</sup>**_..
 
+
 ## Output
 
 For each test case output one line containing a single integer: the largest Magical GCD of a connected subsequence of the input sequence.
@@ -15,6 +16,7 @@ For each test case output one line containing a single integer: the largest Magi
 <table>
 
 <tbody>
+
 
 <tr>
 
